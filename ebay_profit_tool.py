@@ -151,3 +151,16 @@ if uploaded_file:
 
         pdf_filename = f"ebay_profit_summary_{date_range_str}.pdf"
         st.download_button("Download Summary PDF", pdf_buffer.getvalue(), file_name=pdf_filename)
+
+        st.markdown("---")
+        st.markdown(
+            """
+            <div style="text-align: center; margin-top: 2em;">
+                <a href="https://www.buymeacoffee.com/owenkobasz" target="_blank">
+                    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60">
+                </a>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+
