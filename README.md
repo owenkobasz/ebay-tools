@@ -4,7 +4,7 @@ Tools to make life easier as an eBay seller.
 Currently everything is written in Python and runs in a terminal or via a web-based Streamlit interface.  
 A simple webpage (JavaScript-based) is planned down the line.
 
-🌐 First Web App: [ebay-profit-tool.streamlit.app](https://ebay-profit-tool.streamlit.app/)
+🌐 First Web App, eBay Profit Tool: [ebay-profit-tool.streamlit.app](https://ebay-profit-tool.streamlit.app/)
 
 ---
 
@@ -28,7 +28,6 @@ A simple webpage (JavaScript-based) is planned down the line.
 
 1. Clone this repo:
 
-```bash
 git clone https://github.com/owenkobasz/ebay-tools.git
 cd ebay-tools
 
