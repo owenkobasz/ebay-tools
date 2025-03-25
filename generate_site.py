@@ -11,8 +11,8 @@ def generate_index():
     </body>
     </html>
     """
-    Path("build").mkdir(exist_ok=True)
-    with open("build/index.html", "w") as f:
+    Path("docs").mkdir(exist_ok=True)
+    with open("docs/index.html", "w") as f:
         f.write(html)
 
 if __name__ == "__main__":
