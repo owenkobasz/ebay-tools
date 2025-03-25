@@ -2,7 +2,7 @@
 
 Tools to make life easier as an eBay seller.  
 Currently everything is written in Python and runs in a terminal or via a web-based Streamlit interface.  
-A simple webpage (JavaScript-based) is planned down the line.
+I plan to migrate them to a unified webpage with Flash/Django down the line.
 
 🌐 First Web App, eBay Profit Tool: [ebay-profit-tool.streamlit.app](https://ebay-profit-tool.streamlit.app/)
 
